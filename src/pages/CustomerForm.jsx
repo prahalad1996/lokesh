@@ -62,7 +62,7 @@ How did you hear about us?: ${formData.hearAboutUs}
 
 Please provide a quote for this order. Thank you! 🙏`;
 
-    const whatsappNumber = "919876543210"; // Replace with actual WhatsApp number
+    const whatsappNumber = "919113302667"; // Replace with actual WhatsApp number
     const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
     
     window.open(whatsappURL, '_blank');
